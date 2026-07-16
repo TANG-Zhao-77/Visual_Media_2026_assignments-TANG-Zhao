@@ -1,0 +1,16 @@
+Generative AI Usage Log
+
+Codex
+Main purpose:
+Assistance with Python and OpenCV implementation.
+
+My work:
+I selected the processing steps and parameters, adjusted the code for my local files, ran the notebook, and checked the generated outputs.
+
+
+ChatGPT
+Main purpose:
+Checking grammatical errors and unclear English expressions.
+
+My work:
+I wrote and organized the report based on my experiment, and revised the final wording to reflect the actual procedure and observations.
