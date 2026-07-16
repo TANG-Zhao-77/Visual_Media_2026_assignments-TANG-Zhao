@@ -9,4 +9,4 @@ This repository contains the source code and replication materials for the **Vis
 
 ## Repository Structure
 - `run_all.ipynb`: The unified Jupyter Notebook containing the environment check, baseline inference, 3 image degradation simulations (Low-Light, Motion Blur, Gaussian Noise), and the contrast-adaptive CLAHE improvement framework.
-- `AI_Usage_log.txt`: Institutional log documenting the secure leverage of generative AI utilities.
+- `generative_ai_usage_log.txt`: Institutional log documenting the secure leverage of generative AI utilities.
